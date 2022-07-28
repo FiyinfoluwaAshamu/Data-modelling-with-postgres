@@ -26,7 +26,9 @@
 
 After examining the JSON files, a Star schema as shown below was created. It includes one Fact table (songplays) and 4 Dimension tables(songs, artists, time, users).
 
-![star_schema](/assets/images/star_schema.png)
+![star_schema](/star_schema.png)
+
+Diagram created using [ERD Plus](https://erdplus.com)
 
 ## Dataset
     
